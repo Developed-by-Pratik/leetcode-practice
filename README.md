@@ -14,6 +14,7 @@ leetcode-practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
@@ -28,4 +29,12 @@ leetcode-practice
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
