@@ -17,8 +17,8 @@ class Solution {
         int left = 0;
         int right = numbers.length - 1;
 
-        for (int i = 0; i < numbers.length; i++) {
-            
+        while(left < right) {
+
             int sum = numbers[left] + numbers[right];
 
             if (sum == target) {
