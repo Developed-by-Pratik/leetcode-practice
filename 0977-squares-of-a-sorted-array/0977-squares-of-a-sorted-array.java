@@ -1,15 +1,29 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
 
-     // 1. Square each element using a standard index loop
-        for (int i = 0; i < nums.length; i++) {
-            nums[i] = nums[i] * nums[i];
+        int[] ans = new int[nums.length];
+
+        int low = 0;
+        int high = nums.length - 1;
+        int end = nums.length - 1;
+
+        while (low <= high) {
+
+            int left = nums[low] * nums[low];
+            int right = nums[high] * nums[high];
+
+            if (left > right) {
+                ans[end] = left;
+                low++;
+            } else {
+                ans[end] = right;
+                high--;
+            }
+
+            end--;
         }
-        
-        // 2. Sort the array in place
-        Arrays.sort(nums);
-        
-        // 3. Return the sorted array
-        return nums;
+
+        return ans;
+
     }
 }
