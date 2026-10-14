@@ -67,4 +67,8 @@ leetcode-practice
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
