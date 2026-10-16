@@ -14,6 +14,7 @@ leetcode-practice
 | [0088-merge-sorted-array](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -72,5 +73,26 @@ leetcode-practice
 | ------- |
 | [0007-reverse-integer](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0507-perfect-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
