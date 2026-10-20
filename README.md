@@ -24,6 +24,7 @@ leetcode-practice
 | [0001-two-sum](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +37,7 @@ leetcode-practice
 | [0075-sort-colors](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -51,6 +53,7 @@ leetcode-practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Developed-by-Pratik/leetcode-practice/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
